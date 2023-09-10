@@ -1,8 +1,6 @@
 ### Hi there 👋
 # ¡Hola, soy Dariel Peña Vásquez! 👋
 
-![Imagen de perfil](https://avatars.githubusercontent.com/u/101618623?v=4)
-
 Soy un joven entusiasta amante de la tecnología, apasionado por el análisis de datos y la programación web.
 
 ## Educación Profesional
