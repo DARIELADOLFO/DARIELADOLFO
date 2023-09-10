@@ -40,5 +40,5 @@ Soy un joven entusiasta amante de la tecnología, apasionado por el análisis de
 ¡Estoy abierto a colaboraciones y oportunidades emocionantes en el mundo de la tecnología y el desarrollo web! No dudes en contactarme a través de:
 
 - ✉️ Correo electrónico: [Tu dirección de correo electrónico]
-- <a href="https://www.linkedin.com/in/dariel-adolfo-pe%C3%B1a-v%C3%A1squez-a89b42201/" target="_blank">Mi LinkedIn</a>
+- 🌎 <a href="https://www.linkedin.com/in/dariel-adolfo-pe%C3%B1a-v%C3%A1squez-a89b42201/" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">Mi LinkedIn</a>
 - Twitter: [@TuUsuarioDeTwitter]
