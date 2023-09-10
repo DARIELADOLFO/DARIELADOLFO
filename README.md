@@ -7,7 +7,7 @@ Soy un joven entusiasta amante de la tecnología, apasionado por el análisis de
 
 - 🎓 Graduado en Ingeniería en Sistemas y Computación de la Universidad OYM Dominicana en julio de 2023.
 
-## Educación Cursos y Certificaciones
+## Cursos y Certificaciones
 
 - 📚 Cursos en línea:
   - [Nombre del curso 1] en [Udemy/Platzi/Otra plataforma].
@@ -40,5 +40,5 @@ Soy un joven entusiasta amante de la tecnología, apasionado por el análisis de
 ¡Estoy abierto a colaboraciones y oportunidades emocionantes en el mundo de la tecnología y el desarrollo web! No dudes en contactarme a través de:
 
 - ✉️ Correo electrónico: [Tu dirección de correo electrónico]
-- LinkedIn: [Dariel Peña] (https://www.linkedin.com/in/dariel-adolfo-pe%C3%B1a-v%C3%A1squez-a89b42201/){:target="_blank"}
+-<a href="https://www.linkedin.com/in/dariel-adolfo-pe%C3%B1a-v%C3%A1squez-a89b42201/" target="_blank">LinkedIn</a>
 - Twitter: [@TuUsuarioDeTwitter]
