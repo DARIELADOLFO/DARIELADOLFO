@@ -10,35 +10,38 @@ Soy un joven entusiasta amante de la tecnología, apasionado por el análisis de
 ## Cursos y Certificaciones
 
 - 📚 Cursos en línea:
-  - [Nombre del curso 1] en [Udemy/Platzi/Otra plataforma].
-  - [Nombre del curso 2] en [Udemy/Platzi/Otra plataforma].
-  - [Nombre del curso 3] en [Udemy/Platzi/Otra plataforma].
-  - ...
 
+  - Project Management PMI-Gestión de Proyectos (En proceso) [Udemy]
+  - Analisis de datos (Excel, Power bi) [Udemy 2023]
+  - Microsoft Power Bi [Udemy 2023]
+  - Excel Avanzado (tablas dinamicas) [Udemy 2022].
+  - Fundamentos de Ingenieria de software en [Platzi 2022].
+  - Curso de Frontend Developer (HTML, CSS) en [Platzi 2022].
+  - Introducción a la Web: Historia y Funcionamiento de Internet en [Platzi 2022]..
+  - Curso Práctico de Frontend Developer [Platzi 2022].
+  - Curso Básico de Programación [Platzi 2022]. 
+  - Excel Avanzado (tablas dinamicas) [Udemy 2022].
+  - SLQ Server básico [Udemy 2021].
+ 
 ## Mis Intereses
 
-- 💻 Desarrollo web
 - 📊 Análisis de datos
 - 📈 Visualización de datos
+- 💻 Desarrollo web
 - 📚 Aprendizaje constante
 
 ## Proyectos Destacados
 
 - 🌐 [Portafolio]:https://darieladolfo.github.io/Portafolio_web/
-- 📊 [Nombre del proyecto 2]: [Breve descripción o enlace al proyecto].
-- 🚀 [Nombre del proyecto 3]: [Breve descripción o enlace al proyecto].
 
 ## Habilidades
 
-- 💻 Lenguajes de programación: HTML, CSS, JavaScript, Python.
-- 📊 Herramientas de análisis de datos: Excel, Power BI.
-- 🌐 Frameworks y bibliotecas web: [Lista de frameworks y bibliotecas que dominas].
-- 🛠️ Otras habilidades: [Otras habilidades relevantes].
+- 💻 Lenguajes de programación: HTML, CSS.
+- 📊 Herramientas de análisis de datos: Excel, Power BI, SQL Server.
 
 ## Contacto
 
-¡Estoy abierto a colaboraciones y oportunidades emocionantes en el mundo de la tecnología y el desarrollo web! No dudes en contactarme a través de:
+¡Estoy abierto a colaboraciones y oportunidades emocionantes en el mundo de la tecnología y administrativo! No dudes en contactarme a través de:
 
-- ✉️ Correo electrónico: [Tu dirección de correo electrónico]
-- 🌎 <a href="https://www.linkedin.com/in/dariel-adolfo-pe%C3%B1a-v%C3%A1squez-a89b42201/" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">Mi LinkedIn</a>
-- Twitter: [@TuUsuarioDeTwitter]
+- ✉️ Correo electrónico: [darieladolfopenavasquez@gmail.com]
+- 🌎 Linkedin: https://www.linkedin.com/in/dariel-pe%C3%B1a-v%C3%A1squez-a89b42201/
