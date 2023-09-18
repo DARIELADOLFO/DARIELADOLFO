@@ -11,13 +11,12 @@ Soy un joven entusiasta amante de la tecnología, apasionado por el análisis de
 
 - 📚 Cursos en línea:
 
-  - Project Management PMI-Gestión de Proyectos (En proceso) [Udemy]
-  - Analisis de datos (Excel, Power bi) [Udemy 2023]
-  - Microsoft Power Bi [Udemy 2023]
-  - Excel Avanzado (tablas dinamicas) [Udemy 2022].
+  - Project Management PMI-Gestión de Proyectos (En proceso) [Udemy].
+  - Analisis de datos (Excel, Power bi) [Udemy 2023].
+  - Microsoft Power Bi [Udemy 2023].
   - Fundamentos de Ingenieria de software en [Platzi 2022].
   - Curso de Frontend Developer (HTML, CSS) en [Platzi 2022].
-  - Introducción a la Web: Historia y Funcionamiento de Internet en [Platzi 2022]..
+  - Introducción a la Web: Historia y Funcionamiento de Internet en [Platzi 2022].
   - Curso Práctico de Frontend Developer [Platzi 2022].
   - Curso Básico de Programación [Platzi 2022]. 
   - Excel Avanzado (tablas dinamicas) [Udemy 2022].
