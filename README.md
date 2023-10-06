@@ -1,5 +1,5 @@
 ### Hi there 👋
-# ¡Hola, soy Dariel Peña Vásquez, Inegeniero de Sistemas y Computación! 👋
+# ¡Hola, soy Dariel Peña Vásquez, Ingeniero de Sistemas y Computación! 👋
 
 Soy un joven entusiasta amante de la tecnología, apasionado por el análisis de datos y la programación web.
 
