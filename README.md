@@ -1,7 +1,7 @@
 ### Hi there 👋
 # ¡Hola, soy Dariel Peña Vásquez, Ingeniero de Sistemas y Computación! 👋
 
-Soy un joven entusiasta amante de la tecnología, apasionado por el análisis de datos y la programación web.
+Soy un joven entusiasta amante de la tecnología, apasionado por el análisis de datos.
 
 ## Educación Profesional
 
@@ -11,13 +11,13 @@ Soy un joven entusiasta amante de la tecnología, apasionado por el análisis de
 
 - 📚 Cursos en línea:
 
+  - Gestión Ágil de Proyectos con Scrum (En proceso) [Udemy].
   - Project Management PMI-Gestión de Proyectos (En proceso) [Udemy].
-  - Analisis de datos (Excel, Power bi) [Udemy 2023].
+  - Power BI: 8 Proyectos para volverte un master (Udemy 2023)
   - Microsoft Power Bi [Udemy 2023].
+  - Analisis de datos (Excel, Power bi) [Udemy 2023].
   - Fundamentos de Ingenieria de software en [Platzi 2022].
   - Curso de Frontend Developer (HTML, CSS) en [Platzi 2022].
-  - Introducción a la Web: Historia y Funcionamiento de Internet en [Platzi 2022].
-  - Curso Práctico de Frontend Developer [Platzi 2022].
   - Curso Básico de Programación [Platzi 2022]. 
   - Excel Avanzado (tablas dinamicas) [Udemy 2022].
   - SLQ Server básico [Udemy 2021].
@@ -26,17 +26,16 @@ Soy un joven entusiasta amante de la tecnología, apasionado por el análisis de
 
 - 📊 Análisis de datos
 - 📈 Visualización de datos
-- 💻 Desarrollo web
 - 📚 Aprendizaje constante
 
 ## Proyectos Destacados
 
-- 🌐 [Portafolio]:https://darieladolfo.github.io/Portafolio_web/
+- 🌐 [Portafolio]:https://darieladolfo.github.io/Portafolio_Dariel/
 
 ## Habilidades
 
-- 💻 Lenguajes de programación: HTML, CSS.
 - 📊 Herramientas de análisis de datos: Excel, Power BI, SQL Server.
+- 💻 Lenguajes de programación: HTML, CSS.
 
 ## Contacto
 
