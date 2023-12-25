@@ -1,24 +1,28 @@
-### Hi there 👋
-# ¡Hola, soy Dariel Peña Vásquez, Ingeniero de Sistemas y Computación! 👋
+ 👋
+# ¡Hola, soy Dariel A. Peña Vásquez, Ingeniero de Sistemas y Computación! 👋
 
-Soy un joven entusiasta amante de la tecnología, apasionado por el análisis de datos.
+Soy un joven entusiasta amante de la tecnología, apasionado por la tecnologia emergente y el análisis de datos.
 
 ## Educación Profesional
 
-- 🎓 Graduado en Ingeniería en Sistemas y Computación de la Universidad OYM Dominicana en julio de 2023.
+- 🎓 Graduado de Ingeniería en Sistemas y Computación.
 
 ## Cursos y Certificaciones
 
-- 📚 Cursos en línea:
+- 📚 Cursos, diplomados y certificaciones:
 
-  - Gestión Ágil de Proyectos con Scrum (En proceso) [Udemy].
   - Project Management PMI-Gestión de Proyectos (En proceso) [Udemy].
+  - Como gestionar equipos de trabajo [Linkedin 2023]
+  - PowerBi avanzado [Linkedin 2023]
+  - Liderazgo y trabajo en equipo [Linkedin 2023]
+  - Gestion de proyectos Agiles: Comparacion de herramientas agiles [Linkedin 2023]
+  - Fundamentos de gestion de proyectos: Calidad [Linkedin 2023]
+  - Gestión Ágil de Proyectos con Scrum  [Udemy 2023].
   - Power BI: 8 Proyectos para volverte un master (Udemy 2023)
   - Microsoft Power Bi [Udemy 2023].
   - Analisis de datos (Excel, Power bi) [Udemy 2023].
   - Fundamentos de Ingenieria de software en [Platzi 2022].
   - Curso de Frontend Developer (HTML, CSS) en [Platzi 2022].
-  - Curso Básico de Programación [Platzi 2022]. 
   - Excel Avanzado (tablas dinamicas) [Udemy 2022].
   - SLQ Server básico [Udemy 2021].
  
