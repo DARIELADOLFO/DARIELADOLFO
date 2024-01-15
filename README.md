@@ -34,7 +34,7 @@ Soy un joven entusiasta amante de la tecnología, apasionado por la tecnologia e
 
 ## Proyectos Destacados
 
-- 🌐 [Portafolio]:https://darieladolfo.github.io/Portafolio_Dariel/
+- 🌐 [Portafolio]: https://darieladolfo.github.io/Portafolio_Dariel/
 
 ## Habilidades
 
