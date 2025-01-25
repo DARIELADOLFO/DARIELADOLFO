@@ -50,9 +50,13 @@ Soy un joven entusiasta y amante de la tecnología, apasionado por las tecnolog�
  
 ## 📌 Mis Intereses
 📊 Análisis de Datos: Especialización en transformar datos en información valiosa para la toma de decisiones estratégicas.
+
 📈 Visualización de Datos: Creación de dashboards dinámicos y atractivos que cuentan historias a través de los datos, utilizando herramientas como Power BI, Tableau y Python.
+
 📊 Modelado y Limpieza de Datos: Optimización de procesos de datos mediante técnicas avanzadas de ETL (Extracción, Transformación y Carga) para garantizar su calidad y precisión.
+
 🎯 KPI y Estrategia: Diseño, implementación y seguimiento de indicadores clave de rendimiento (KPI) para evaluar y mejorar la eficiencia operativa en proyectos empresariales.
+
 📚 Aprendizaje Constante: Pasión por adquirir nuevos conocimientos en tecnologías emergentes como inteligencia artificial, automatización y machine learning para resolver problemas del mundo real.
 ## Proyectos Destacados
 
